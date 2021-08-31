@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Rahul Biswas - Programmer. Web Developer. Blogger
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: Rahul Biswas
+description: Rahul Biswas - Programmer. Web Developer. Blogger
+email: biswasrahul016@gmail.com
+phone: +1 503 694 5289
+address: IIT Campus, Kharagpur
+copyright: Copyright &copy; 2021 Designed by [Rahul Biswas](https://rahulbiswas.net) & Developed by [Rahul Biswas]((https://rahulbiswas.net)
 
 menu:
 - {name: About, link: '/about'}
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Rahul <br> Web Developer
 
 social:
 - {icon: "ti-facebook", link: "#"}
